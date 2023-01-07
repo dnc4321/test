@@ -1,2 +1,3 @@
 welcome to git session
 
+timing of the session is 5 to 7
