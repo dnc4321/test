@@ -1,6 +1,6 @@
 welcome to git session
 
-timing of the session is 5 to 7
+timing of the session is 5.00 pm to 7.00 pm
 
 testing git revert
 
