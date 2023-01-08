@@ -7,3 +7,5 @@ testing git revert
 adding another line to fix bug123
 
 adding line to check rebase
+
+added new line as another user
